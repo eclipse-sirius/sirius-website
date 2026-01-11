@@ -1,0 +1,256 @@
+{"usecases":[
+    {
+        "medias": {
+            "mainSrc": "images/gallery-web/syson-1.png",
+            "imgAlt": "SysML v2 diagram",
+            "thumbs": [
+            ]
+        },
+        "infos": {
+            "title": "SysON",
+            "description": "<p>SysON is a web-based environment to graphically edit SysML v2 models.</p><p>SysON’s objective is to provide System Engineers with super easy access to this new standard, at minimal cost and great ease of use, with the guarantee of interoperability with other open-source MBSE tools.</p>",
+            "tags": [
+                {
+                    "nom": "Systems Engineering",
+                    "url": "#"
+                },
+                 {
+                    "nom": "MBSE",
+                    "url": "#"
+                },
+                 {
+                    "nom": "SysML v2",
+                    "url": "#"
+                }
+            ],
+            "lnks": [
+                {
+                    "nom": "Project Page",
+                    "url": "https://mbse-syson.org/"
+                }
+            ]
+        }
+    },
+
+    {
+        "medias": {
+            "mainSrc": "images/gallery-web/uml-1.png",
+            "imgAlt": "UML diagram",
+            "thumbs": [
+            ]
+        },
+        "infos": {
+            "title": "Papyrus",
+            "description": "Papyrus web version provides UML graphical editors.",
+            "tags": [
+                {
+                    "nom": "UML",
+                    "url": "#"
+                }
+            ],
+            "lnks": [
+                {
+                    "nom": "Project Page",
+                    "url": "https://eclipse.dev/papyrus/"
+                }
+            ]
+        }
+    },
+
+    {
+        "medias": {
+            "mainSrc": "images/gallery-web/smartea-1.png",
+            "imgAlt": "BPMN diagram",
+            "thumbs": [
+                {"src": "images/gallery-web/smartea-2.png"},
+                {"src": "images/gallery-web/smartea-3.png"},
+                {"src": "images/gallery-web/smartea-4.png"},
+                {"src": "images/gallery-web/smartea-5.png"}
+            ]
+        },
+        "infos": {
+            "title": "Obeo SmartEA",
+            "description": "<p>Obeo SmartEA® is a graphical and collaborative Continuous Enterprise Architecture solution enabling you to map your organization and its IT system.</p><p>It provides web-based graphical editors for ArchiMate and BPMN models.</p>",
+            "tags": [
+                {
+                    "nom": "ArchiMate",
+                    "url": "#"
+                },
+                {
+                    "nom": "BPMN",
+                    "url": "#"
+                }
+            ],
+            "lnks": [
+                {
+                    "nom": "Website",
+                    "url": "https://www.obeosoft.com/en/products/smartea"
+                }
+            ]
+        }
+    }
+,
+
+    {
+        "medias": {
+            "mainSrc": "images/gallery-web/gsef-2.png",
+            "imgAlt": "GSEF diagram",
+            "thumbs": [
+                {"src": "images/gallery-web/gsef-1.png"}
+            ]
+        },
+        "infos": {
+            "title": "Ground and Space Segment Engineering Framework (GSEF v3)",
+            "description": "<p>Funded by funded by the European Space Agency, GSEF is an open and collaborative web platform that supports a model-based approach to modernize and streamline the engineering of ground segments for space missions.</p><p>GSEF v3 integrates SysON to provide the core support for SysML v2 in a web-based environment. It extends SysON to add custom graphical editors to represent SysML v2 elements with domain-specific colors and shapes and new tools to support specific tasks (for example, validation, queries, editing workflows, method guidance).</p>",
+            "tags": [
+                {
+                    "nom": "SysML V2",
+                    "url": "#"
+                },
+                {
+                    "nom": "Space",
+                    "url": "#"
+                }
+            ],
+            "lnks": [
+                {
+                    "nom": "Project Page",
+                    "url": "https://mbse.space-codev.org/gsef-public/"
+                },
+                {
+                    "nom": "Case-study",
+                    "url": "https://blog.obeosoft.com/using-syson-for-space-applications"
+                }
+            ]
+        }
+    }
+,
+
+    {
+        "medias": {
+            "mainSrc": "images/gallery-web/pepper-2.png",
+            "imgAlt": "Pepper diagram",
+            "thumbs": [
+                {"src": "images/gallery-web/pepper-1.png"},
+                {"src": "images/gallery-web/pepper-3.png"},
+                {"src": "images/gallery-web/pepper-4.png"}
+            ]
+        },
+        "infos": {
+            "title": "Pepper",
+            "description": "<p>Pepper models the core elements of R&D project management. It goes far beyond task tracking by introducing a rich set of interrelated concepts to represent projects, deliverables, goals, risks, and collaboration structures.</p><p>Pepper offers a set of tailored, interactive web views to support various project activities, from long-term planning to daily task management: Form, Gantt, OKR, Daily, Kanban.</p>",
+            "tags": [
+                {
+                    "nom": "Project Management",
+                    "url": "#"
+                },
+                {
+                    "nom": "Gantt",
+                    "url": "#"
+                }
+            ],
+            "lnks": [
+                {
+                    "nom": "Project Page",
+                    "url": "https://github.com/ObeoNetwork/pepper"
+                },
+                {
+                    "nom": "Case-study",
+                    "url": "https://blog.obeosoft.com/pepper-a-case-of-open-innovation-with-sirius-web"
+                }
+            ]
+        }
+    }
+,
+
+    {
+        "medias": {
+            "mainSrc": "images/gallery-web/easymod-1.png",
+            "imgAlt": "EasyMOD diagram",
+            "thumbs": [
+                {"src": "images/gallery-web/easymod-2.png"},
+                {"src": "images/gallery-web/easymod-3.png"}
+            ]
+        },
+        "infos": {
+            "title": "EasyMOD",
+            "description": "<p>EasyMOD is a collaborative project led by IRT Saint Exupéry supported by the European Space Agency (ESA), Airbus Defence and Space, Airbus Commercial Aircraft, HDGroup, and the French Government.</p><p>It introduced innovative solutions for consistently reviewing heterogeneous MBSE models across multiple structural analyses, including Product Breakdown Structure, Functional Breakdown Structure and Functional Flows.</p><p>During this project an extension to SysON was developed to implement a dedicated methodology for reviewing systems engineering data, including dedicated diagram editors for SEIM (Systems Engineering Information Model) concepts and Helper tools to guide systems engineers throughout the review process.</p>",
+            "tags": [
+                {
+                    "nom": "Systems Engineering",
+                    "url": "#"
+                },
+                {
+                    "nom": "MBSE",
+                    "url": "#"
+                }
+            ],
+            "lnks": [
+                {
+                    "nom": "Case-study",
+                    "url": "https://blog.obeosoft.com/introducing-methodology-support-for-sysmlv2-with-syson"
+                }
+            ]
+        }
+    }
+,
+
+    {
+        "medias": {
+            "mainSrc": "images/gallery-web/arcadia-1.png",
+            "imgAlt": "Arcadia diagram",
+            "thumbs": [
+                {"src": "images/gallery-web/arcadia-2.png"}
+            ]
+        },
+        "infos": {
+            "title": "Arcadia",
+            "description": "<p>This experimental extension of SysON provides web-based editors to author SysML v2 models according to the Arcadia methodology.</p>",
+            "tags": [
+                {
+                    "nom": "Systems Engineering",
+                    "url": "#"
+                },
+                {
+                    "nom": "MBSE",
+                    "url": "#"
+                }
+            ],
+            "lnks": [
+                {
+                    "nom": "Case-study",
+                    "url": "https://blog.obeosoft.com/extending-syson-to-support-the-arcadia-method-a-first-experiment"
+                }
+            ]
+        }
+    }
+    ,
+
+	    {
+	        "medias": {
+	            "mainSrc": "images/gallery-web/flow-1.png",
+	            "imgAlt": "Flow diagram",
+	            "thumbs": [
+	            ]
+	        },
+	        "infos": {
+	            "title": "Flow",
+	            "description": "<p>This demo is a sample studio to design electronics components.</p><p>It is used by Obeo to showcase how to create a modeling tool with Sirius Web.</p>",
+	            "tags": [
+	                {
+	                    "nom": "Demonstration",
+	                    "url": "#"
+	                },
+	                {
+	                    "nom": "Electronics",
+	                    "url": "#"
+	                }
+	            ],
+	            "lnks": [
+	            ]
+	        }
+    }
+
+
+
+]}
