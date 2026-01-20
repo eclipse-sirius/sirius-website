@@ -250,6 +250,69 @@
 	            ]
 	        }
     }
+,
+
+    {
+        "medias": {
+            "mainSrc": "images/gallery-web/value-chain-1.png",
+            "imgAlt": "Electricity Production Value Chain",
+            "thumbs": [
+                {"src": "images/gallery-web/value-chain-2.png"}
+            ]
+        },
+        "infos": {
+            "title": "Value Chain Analysis and Design",
+            "description": "<p>This project aimed at implementing a prototype of the ITEA value-chain notation. Our goal was to support live collaborative modeling and flexible modeling suitable for R&D and collaborative projects planning.</p>",
+            "tags": [
+                {
+                    "nom": "Demonstration",
+                    "url": "#"
+                },
+                {
+                    "nom": "Project Management",
+                    "url": "#"
+                }
+            ],
+            "lnks": [
+	            ]
+        }
+    }
+,
+
+    {
+        "medias": {
+            "mainSrc": "images/gallery-web/guesstimate-1.png",
+            "imgAlt": "A probabilistic model of how long it takes to get to work.",
+            "thumbs": [
+                {"src": "images/gallery-web/guesstimate-2.jpg"}
+            ]
+        },
+        "infos": {
+            "title": "Guesstimate",
+            "description": "<p>This prototype is a <b>Sirius Web</b> domain-specific tool inspired by <b>Guesstimate</b>, built to do <b>probability modeling</b> and run <b>Monte Carlo simulations</b> to answer everyday estimation questions (like “how long will it take to make coffee?”) while keeping the implementation intentionally small. The domain logic lives in an <b>EMF-based metamodel</b> plus a compact <b>Java</b> implementation (about <b>11 files</b> and <b>~1,028</b> non-generated lines of code), and the UI showcases Sirius Web features such as the <b>charts widget</b> in the details view, with easy integration of standard Java libraries like <b>Apache Commons Math</b> and <b>PetitParser</b>.</p>",
+            "tags": [
+                {
+                    "nom": "Demonstration",
+                    "url": "#"
+                },
+                {
+                    "nom": "Probabilistic",
+                    "url": "#"
+                },
+                {
+                    "nom": "Charts",
+                    "url": "#"
+                }
+            ],
+            "lnks": [
+                {
+                    "nom": "Blog Post and Video",
+                    "url": "https://cedric.brun.io/modeling/guesstimate-probability-modeling/"
+                }
+	            ]
+        }
+    }
+
 
 
 
