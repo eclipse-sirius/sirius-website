@@ -165,6 +165,38 @@
 
     {
         "medias": {
+            "mainSrc": "images/gallery-web/ontology-1.png",
+            "imgAlt": "EasyMOD diagram",
+            "thumbs": [
+                {"src": "images/gallery-web/ontology-2.png"},
+                {"src": "images/gallery-web/ontology-3.png"}
+            ]
+        },
+        "infos": {
+            "title": "Ontology",
+            "description": "<p>The application allows the definition of an ontology structure through entities and sub-entities.</p>",
+            "tags": [
+                {
+                    "nom": "OWL",
+                    "url": "#"
+                },
+                {
+                    "nom": "RDF",
+                    "url": "#"
+                }
+            ],
+            "lnks": [
+                {
+                    "nom": "Project Page",
+                    "url": "https://github.com/ObeoNetwork/ontology"
+                }
+            ]
+        }
+    }
+,
+
+    {
+        "medias": {
             "mainSrc": "images/gallery-web/easymod-1.png",
             "imgAlt": "EasyMOD diagram",
             "thumbs": [
